@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/skygoal/static/css/main.11f683ef.css",
+    "main.js": "/skygoal/static/js/main.6c6f5734.js",
+    "static/js/787.9739bde4.chunk.js": "/skygoal/static/js/787.9739bde4.chunk.js",
+    "static/media/Hero_img.svg": "/skygoal/static/media/Hero_img.0c09f39317f58efd5c55f308e5c4c33d.svg",
+    "static/media/Section_img.svg": "/skygoal/static/media/Section_img.797ece410902cf6bfd5c8848457900df.svg",
+    "static/media/cover4.png": "/skygoal/static/media/cover4.4e1a42e38abc6dad2285.png",
+    "static/media/cover3.png": "/skygoal/static/media/cover3.36611c7cc33441a4825f.png",
+    "static/media/cover1.png": "/skygoal/static/media/cover1.7aaa451f37a421134b2e.png",
+    "static/media/cover2.png": "/skygoal/static/media/cover2.3767221cc099681da98a.png",
+    "index.html": "/skygoal/index.html",
+    "main.11f683ef.css.map": "/skygoal/static/css/main.11f683ef.css.map",
+    "main.6c6f5734.js.map": "/skygoal/static/js/main.6c6f5734.js.map",
+    "787.9739bde4.chunk.js.map": "/skygoal/static/js/787.9739bde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f683ef.css",
+    "static/js/main.6c6f5734.js"
+  ]
+}
