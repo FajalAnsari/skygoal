@@ -1,0 +1,45 @@
+.services{
+    height: 500px;
+}
+.services h3{
+    font-size: 32px;
+    font-weight: 900;
+}
+.button{
+    background-color: #EE4248;
+    color: white;
+}
+span {
+    color: #ee4248;
+  }
+  #profession{
+    padding-left: 20px;
+  }
+.card-title{
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 4px;
+    padding-bottom: 15px;
+}
+.card {
+    height: 270px;
+}
+.card img{
+    height: 100px;
+    width: 100px;
+    margin-left: 40px;
+}
+.card i{
+    color: #EE4248;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 10px;
+    margin-top: 10px;
+    border-radius: 50%;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+}
+.shadow {
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+

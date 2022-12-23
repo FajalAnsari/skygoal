@@ -1,0 +1,24 @@
+.services{
+    height: 440px;
+}
+.button{
+    background-color: #EE4248;
+    color: white;
+}
+span {
+    color: #ee4248;
+  }
+.card-title{
+    font-size: 22px;
+    font-weight: bold;
+}
+.card img{
+    height: 100px;
+    width: 100px;
+}
+.card {
+    border: none;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+

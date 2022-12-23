@@ -1,0 +1,43 @@
+.Sec-section{
+    height: 500px;
+    background-color:   #F7F7F7;
+}
+.sec-left img{
+    max-width: 100%;
+    padding-left: 20px;
+}
+.sec-right h1{
+    font-size: 40px;
+    font-weight: 500px;
+    padding: 60px 20px;
+}
+span{
+    color: #EE4248;
+}
+.sec-right p{
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 20px;
+}
+
+@media (max-width: 480px) {
+
+}
+/* 481px — 768px: iPads, Tablets */
+@media only screen and (min-width: 481px) and (max-width: 768px){
+    .Sec-section{
+        height: 850px;
+    }
+}
+/* 769px — 1024px: Small screens, laptops */
+@media only screen and (min-width: 769px) and (max-width: 1024px){
+
+}
+/* 1025px — 1200px: Desktops, large screens */
+@media only screen and (min-width: 1025px) and (max-width: 1200px){
+
+}
+/* 1201px and more —  Extra large screens, TV */
+@media only screen and (min-width: 1201px){
+
+}
